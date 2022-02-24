@@ -40,13 +40,14 @@ Se deberá entregar tanto el código fuente como el proyecto o script de base de
 
 > Colocar debajo de este espacio lo necesario para que la aplicacion compile y se ejecute correctamente.
 
-> Pasos para ejecutar el código:
-> 1° Clonar el repositorio localmente
-> 2° Con el terminal del Visual Studio Code, posicionarse en el path del proyecto
-> 3° Escribir y ejecutar el comando "npm install"
-> 4° Para ejecutar el proyecto escribir y ejecutar el comando "npm start"
+ Pasos para ejecutar el código:
+ 
+ 1. Clonar el repositorio localmente
+ 2. Con el terminal del Visual Studio Code, posicionarse en el path del proyecto
+ 3. Escribir y ejecutar el comando "npm install"
+ 4. Para ejecutar el proyecto escribir y ejecutar el comando "npm start"
 
-> Librerías usadas en este proyecto:
+ Librerías usadas en este proyecto:
 
     "@emotion/react": "11.7.1",
     "@emotion/styled": "11.6.0",
