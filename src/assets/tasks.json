@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Technical interview",
+    "description": "Antorcha Digital",
+    "status": "Completed"
+  },
+  {
+    "id": 2,
+    "title": "Read the challenge",
+    "description": "Read the challenge (url: https://github.com/antorchadigital/challenge-front).",
+    "status": "Completed"
+  },
+  {
+    "id": 3,
+    "title": "Analyze the challenge",
+    "description": "Think the first things to take into account.",
+    "status": "Completed"
+  },
+  {
+    "id": 4,
+    "title": "Create the basic code structure",
+    "description": "Initialize the React project and install Material UI Framework",
+    "status": "New"
+  },
+  {
+    "id": 5,
+    "title": "Create components",
+    "description": "Create components like table for the tasks, modals for the edition, alerts for the deletion, services for the storage of the tasks, etc.",
+    "status": "New"
+  }
+]

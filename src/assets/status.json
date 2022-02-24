@@ -1,0 +1,26 @@
+[
+  {
+    "value": "All",
+    "label": "All"
+  },
+  {
+    "value": "New",
+    "label": "New"
+  },
+  {
+    "value": "On Progress",
+    "label": "On Progress"
+  },
+  {
+    "value": "Paused",
+    "label": "Paused"
+  },
+  {
+    "value": "Completed",
+    "label": "Completed"
+  },
+  {
+    "value": "Deleted",
+    "label": "Deleted"
+  }
+]
